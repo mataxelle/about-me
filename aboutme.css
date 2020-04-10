@@ -1,0 +1,10 @@
+h1 {
+    font-size: 250%;
+    color: purple;
+    text-align: center; 
+}
+
+h1 span {
+    border: 10px dashed #20bc20;
+    padding: 20px;
+}
